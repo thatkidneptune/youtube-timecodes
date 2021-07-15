@@ -26,32 +26,45 @@ Class 02 - Timecodes
 0:00 - Intro
 
 Class 03 - Timecodes
-1:05 - Intro
-2.49 - Q&A
-7:40 - Agenda
-10:19 - Curses Google Authenticator Multifactor
-12:00 - Typing
-16:10 - Reading Documentation
-18:51 - Deep Not Wide
-22:08 - Space Repetition
-24:17 - What is the internet?
-25.56 - Separation of Concerns
-27:45 - Progressive Enhancement
-30.56 - CSS
-36:54 - Use a separete CSS file
-42:15 - CSS Syntax
-53:13 - Cascade
-56:20 - Color
-1:04:18 - Fonts
-1:09:11 - Break
-1:15:33 - How to research?
-1:18:08 - Let's Code
-1:47:05 - Selecting by Relationship
-1:58:30 - Let's Code
-2:05:56 - Break
-2:12:51 - IDs & Classes
-2:17:27 - Specificity
-2:26:25 - Homework
+
+00:00 - Intro
+ 01:10 - Question of the Day
+	05:45 - Q&A with chat
+	13:07 - Class Adgenda
+14:06 - Review
+	14:06 - What is the Internet 
+	16:15 - Seperation Of concerns
+	18:20 - Progressive Enchancements
+20:15 - CSS
+	20:35 - Where should css go
+	22:05 - Use a seperate Css file
+	23:08 - HTML & CSS: File create and link example
+	31:50 - CSS Syntax
+	35:00 - CSS Breakdown
+	43:20 - What is Cascade
+	46:35 - CSS Breadown Recap
+47:40 - Some Simple Styles
+	48:07 - Colors
+	54:58 - Font-Family
+	56:37 - Google Fonts & Adding Fonts to HTML & CSS
+	01:05:06 - Font-Weight
+	01:07:50 - How to research
+01:09:50 - Break Start
+01:13:20 - Break End	
+01:15:25 - Lab "Some Basic Css" Start
+	01:20:30 - Lab Q&A with chat
+01:29:23 - Lab "Some Basic Css" Ends
+01:30:22 - Lab "Some Basic Css" Review
+01:44:40 - Selecting by Relationship (Relationship Selectors)
+01:51:00 - Lab " Some Relationships"
+01:59:21 - ID & Classes
+	02:00:24 - IDs
+	02:02:10 - Classes
+02:05:21 - Specificity
+02:10:48 - Lab "Simple Site" / Homework
+	02:12:02 - Respects to the Late Dr. Iona Black
+	02:12:48 - Lab "Simple Site" Instructions
+02:15:00 - End of Class/ Raid
 
 Class 04 - Timecodes
 0:00 - Intro
