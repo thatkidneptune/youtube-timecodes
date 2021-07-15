@@ -27,44 +27,45 @@ Class 02 - Timecodes
 
 Class 03 - Timecodes
 
-00:00 - Intro
- 01:10 - Question of the Day
-	05:45 - Q&A with chat
-	13:07 - Class Adgenda
-14:06 - Review
-	14:06 - What is the Internet 
-	16:15 - Seperation Of concerns
-	18:20 - Progressive Enchancements
-20:15 - CSS
-	20:35 - Where should css go
-	22:05 - Use a seperate Css file
-	23:08 - HTML & CSS: File create and link example
-	31:50 - CSS Syntax
-	35:00 - CSS Breakdown
-	43:20 - What is Cascade
-	46:35 - CSS Breadown Recap
-47:40 - Some Simple Styles
-	48:07 - Colors
-	54:58 - Font-Family
-	56:37 - Google Fonts & Adding Fonts to HTML & CSS
-	01:05:06 - Font-Weight
-	01:07:50 - How to research
-01:09:50 - Break Start
-01:13:20 - Break End	
-01:15:25 - Lab "Some Basic Css" Start
-	01:20:30 - Lab Q&A with chat
-01:29:23 - Lab "Some Basic Css" Ends
-01:30:22 - Lab "Some Basic Css" Review
-01:44:40 - Selecting by Relationship (Relationship Selectors)
-01:51:00 - Lab " Some Relationships"
-01:59:21 - ID & Classes
-	02:00:24 - IDs
-	02:02:10 - Classes
-02:05:21 - Specificity
-02:10:48 - Lab "Simple Site" / Homework
-	02:12:02 - Respects to the Late Dr. Iona Black
-	02:12:48 - Lab "Simple Site" Instructions
-02:15:00 - End of Class/ Raid
+00:00 - Intro;
+
+01:10 - Question of the Day;<br>
+	05:45 - Q&A with chat;<br>
+	13:07 - Class Adgenda;<br>
+14:06 - Review;<br>
+	14:06 - What is the Internet;<br> 
+	16:15 - Seperation Of concerns;<br>
+	18:20 - Progressive Enchancements;<br>
+20:15 - CSS;<br>
+	20:35 - Where should css go;<br>
+	22:05 - Use a seperate Css file;<br>
+	23:08 - HTML & CSS: File create and link example;<br>
+	31:50 - CSS Syntax;<br>
+	35:00 - CSS Breakdown;<br>
+	43:20 - What is Cascade;<br>
+	46:35 - CSS Breadown Recap;<br>
+47:40 - Some Simple Styles;<br>
+	48:07 - Colors;<br>
+	54:58 - Font-Family;<br>
+	56:37 - Google Fonts & Adding Fonts to HTML & CSS;<br>
+	01:05:06 - Font-Weight;<br>
+	01:07:50 - How to research;<br>
+01:09:50 - Break Start;<br>
+01:13:20 - Break End;<br>
+01:15:25 - Lab "Some Basic Css" Start;<br>
+	01:20:30 - Lab Q&A with chat;<br>
+01:29:23 - Lab "Some Basic Css" Ends;<br>
+01:30:22 - Lab "Some Basic Css" Review;<br>
+01:44:40 - Selecting by Relationship (Relationship Selectors);<br>
+01:51:00 - Lab " Some Relationships";<br>
+01:59:21 - ID & Classes;<br>
+	02:00:24 - IDs;<br>
+	02:02:10 - Classes;<br>
+02:05:21 - Specificity;<br>
+02:10:48 - Lab "Simple Site" / Homework;<br>
+	02:12:02 - Respects to the Late Dr. Iona Black;<br>
+	02:12:48 - Lab "Simple Site" Instructions;<br>
+02:15:00 - End of Class/ Raid;<br>
 
 Class 04 - Timecodes
 0:00 - Intro
