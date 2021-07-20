@@ -25,10 +25,8 @@ Learning How to Learn: Powerful mental tools to help you master tough subjects b
 Class 02 - Timecodes
 0:00 - Intro
 
-Class 03 - Timecodes
-
-00:00 - Intro;
-
+Class 03 - Timecodes<br>
+00:00 - Intro;<br>
 01:10 - Question of the Day;<br>
 	05:45 - Q&A with chat;<br>
 	13:07 - Class Adgenda;<br>
